@@ -1,10 +1,10 @@
 <div align="center">
-  <sub>Profile Views</sub>
-  <br />
+  <p>
   <img
-    src="https://komarev.com/ghpvc/?username=Abolfazl-taghavi-1383&label=&color=2E3440&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=Abolfazl-taghavi-1383&label=Profile%20Views&color=0d1117&style=for-the-badge"
     alt="Profile views"
   />
+</p>
 </div>
 
 <img src="https://github.com/Abolfazl-taghavi-1383/Abolfazl-taghavi-1383/blob/main/587777.png" alt="Banner">
