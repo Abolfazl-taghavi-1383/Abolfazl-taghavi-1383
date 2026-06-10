@@ -39,8 +39,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,django,fastapi,flask,mongodb,postgres,redis" />
-  <img src="https://skillicons.dev/icons?i=mysql,graphql,docker,rabbitmq,linux,frappe" />
+  <img src="https://skillicons.dev/icons?i=js,python,django,fastapi,flask,mongodb,postgres,redis,mysql,graphql,docker,rabbitmq,linux,frappe" />
 </p>
 
 <hr>
