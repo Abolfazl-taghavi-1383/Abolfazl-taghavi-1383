@@ -1,7 +1,8 @@
-<div align="center"> 
-  <p>Visitor count</p>
+<div align="center">
+  <sub>Profile Views</sub>
+  <br />
   <img
-    src="https://komarev.com/ghpvc/?username=Abolfazl-taghavi-1383&label=Profile%20Views&color=2E3440&style=flat-square"
+    src="https://komarev.com/ghpvc/?username=Abolfazl-taghavi-1383&label=&color=2E3440&style=flat-square"
     alt="Profile views"
   />
 </div>
