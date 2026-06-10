@@ -1,6 +1,6 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Abolfazl-taghavi-1383/count.svg" alt="Visitor's Count" />
+  <img src="https://count.getloli.com/get/@Abolfazl-taghavi-1383?theme=gelbooru" alt="Visitor count" />
 </div>
 
 <img src="https://github.com/Abolfazl-taghavi-1383/Abolfazl-taghavi-1383/blob/main/587777.png" alt="Banner">
