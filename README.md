@@ -1,6 +1,9 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://count.getloli.com/get/@Abolfazl-taghavi-1383?theme=gelbooru" alt="Visitor count" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Abolfazl-taghavi-1383&label=Profile%20Views&color=2E3440&style=flat-square"
+    alt="Profile views"
+  />
 </div>
 
 <img src="https://github.com/Abolfazl-taghavi-1383/Abolfazl-taghavi-1383/blob/main/587777.png" alt="Banner">
