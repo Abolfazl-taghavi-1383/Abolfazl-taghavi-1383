@@ -12,7 +12,7 @@
 ### A Software Engineer with professional experience in backend development, freelance software projects, and ERP development. Over the past few years, I’ve worked on building and maintaining backend services, solving real-world business problems, and delivering practical software solutions tailored to client needs.
 
 
-- 🌱 I’m currently learning **[Computer Engineering]([https://blog.bytebytego.com/p/free-system-design-pdf-158-pages](https://www.egr.uh.edu/sites/ccoe.egr.uh.edu/files/departments/computer.pdf))**
+- 🌱 I’m currently learning **[Computer Engineering]([https://blog.bytebytego.com/p/free-system-design-pdf-158-pages(https://www.egr.uh.edu/sites/ccoe.egr.uh.edu/files/departments/computer.pdf))**
 - 💬 Ask me about **Python, JavaScript, Django, Docker,...or anything [here](https://github.com/Abolfazl-taghavi-1383/Abolfazl-taghavi-1383/issues)**
 
 <br>
@@ -25,10 +25,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/a.taghavvi/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a href=https://t.me/Abolfazll_taghavi"" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Telegram-1e1f26?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" />
   </a>
 </div>
 
